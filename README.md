@@ -32,12 +32,11 @@ It’s not just a webpage, but an experience crafted to make someone feel specia
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3 / Tailwind CSS
+- HTML
+- Tailwind CSS
 - JavaScript
-- React (with animations)
+- React 
 - Vercel for deployment
-- Git & GitHub for version control
 
 ---
 
