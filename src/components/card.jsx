@@ -167,9 +167,7 @@ const bg = `linear-gradient(135deg,
 >
   Dear my personal part-time therapist, <br /><br />
 
-  Happy Birthday, my Canada-based Stress Queen 😂🇨🇦 <br /><br />
-
-  I swear, distance is just a number, because those 2 AM “life is personally attacking me” calls 😩📞 still make me feel like you’re sitting right next to me, disturbing my peace with popcorn 🍿😂 <br /><br />
+  Happy Birthday, my Canada-based Stress Queen 😂🇨🇦 I swear, distance is just a number, because those 2 AM “life is personally attacking me” calls 😩📞 still make me feel like you’re sitting right next to me, disturbing my peace with popcorn 🍿😂 <br /><br />
 
   You’re studying psychology 🧠📚, but honestly, after all our late-night overthinking sessions 😅💭, I deserve a degree too — free ka internship chal raha hai mera 😌💀 <br /><br />
 
