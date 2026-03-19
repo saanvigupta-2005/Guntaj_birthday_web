@@ -159,16 +159,34 @@ const bg = `linear-gradient(135deg,
 
             {tab === "Secret Mail" && (
               <motion.div
-                key="Secret Mail"
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                exit={{ opacity: 0 }}
-                className="text-justify text-lg leading-relaxed max-w-2xl mx-auto"
-              >
-                Dear my personal part time therapist , <br /><br />
-                Happy Birthday, my Canada-based Stress Queen 😂🇨🇦 I swear, distance is just a number, because those 2 AM “life is personally attacking me” calls 😩📞 still make me feel like you’re sitting right next to me, disturbing my peace with popcorn 🍿😂 You’re studying psychology 🧠📚, but honestly, after all our late-night overthinking sessions 😅💭, I deserve a degree too — free ka internship chal raha hai mera 😌💀 I love how we can go from venting about life 😭🤯 to dreaming about our future 📈✨, reminding each other that things will work out, no matter how messy everything feels right now 💫 And somehow, in the same conversation, we go from crying about life 😭 to planning a full business empire 💼👑 in 10 minutes… and then doing absolutely nothing about it 😂 matlab ideas 100, execution zero 😭🔥 You cry 😢, rant 😤, stress out 😬, but still come up with ideas that make me go, “This human is actually a genius.” 🤯💡 sach mein, dimaag alag level pe chalta hai tera 😂  Time zones ⏰✈️ and countries 🌎 may be different, but our chaotic, laugh-until-we-cry calls 😂💛 are still 100% the same — zero difference 😌 I’m proud of you — not just because you’re slaying it in Canada 🇨🇦🔥, but because you’re handling everything emotionally 😌❤️, mentally 🧠💪, and yes, still winning in the overthinking Olympics 🏆😅 Can’t wait to meet 🤗, start our “side empire” 💼👑 (which we’ll probably procrastinate on), and continue roasting each other forever 🔥🤣 kyunki yeh toh kabhi band nahi hoga 😂 Stay hilarious 😎😂, try to become smarter 🧠✨ (thoda effort daal 😂), and never change — the chaos suits you perfectly 😈💛💖
+  key="Secret Mail"
+  initial={{ opacity: 0 }}
+  animate={{ opacity: 1 }}
+  exit={{ opacity: 0 }}
+  className="text-justify text-lg leading-relaxed max-w-2xl mx-auto"
+>
+  Dear my personal part-time therapist, <br /><br />
 
-              </motion.div>
+  Happy Birthday, my Canada-based Stress Queen 😂🇨🇦 <br /><br />
+
+  I swear, distance is just a number, because those 2 AM “life is personally attacking me” calls 😩📞 still make me feel like you’re sitting right next to me, disturbing my peace with popcorn 🍿😂 <br /><br />
+
+  You’re studying psychology 🧠📚, but honestly, after all our late-night overthinking sessions 😅💭, I deserve a degree too — free ka internship chal raha hai mera 😌💀 <br /><br />
+
+  I love how we can go from venting about life 😭🤯 to dreaming about our future 📈✨, reminding each other that things will work out, no matter how messy everything feels right now 💫 <br /><br />
+
+  And somehow, in the same conversation, we go from crying about life 😭 to planning a full business empire 💼👑 in 10 minutes… and then doing absolutely nothing about it 😂 matlab ideas 100, execution zero 😭🔥 <br /><br />
+
+  You cry 😢, rant 😤, stress out 😬, but still come up with ideas that make me go, “This human is actually a genius.” 🤯💡 sach mein, dimaag alag level pe chalta hai tera 😂 <br /><br />
+
+  Time zones ⏰✈️ and countries 🌎 may be different, but our chaotic, laugh-until-we-cry calls 😂💛 are still 100% the same — zero difference 😌 <br /><br />
+
+  I’m proud of you — not just because you’re slaying it in Canada 🇨🇦🔥, but because you’re handling everything emotionally 😌❤️, mentally 🧠💪, and yes, still winning in the overthinking Olympics 🏆😅 <br /><br />
+
+  Can’t wait to meet 🤗, start our “side empire” 💼👑 (which we’ll probably procrastinate on), and continue roasting each other forever 🔥🤣 kyunki yeh toh kabhi band nahi hoga 😂 <br /><br />
+
+  Stay hilarious 😎😂, try to become smarter 🧠✨ (thoda effort daal 😂), and never change — the chaos suits you perfectly 😈💛💖
+</motion.div>
             )}
           </AnimatePresence>
         </div>
