@@ -1,16 +1,44 @@
-# React + Vite
+# 🎂 Guntaj Birthday Web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 **Live Website:** https://guntaj-birthday-web.vercel.app/
 
-Currently, two official plugins are available:
+A personalized, interactive birthday surprise website built to deliver heartfelt messages, photos, and memorable moments in a creative way. This project focuses on clean UI, smooth interactions, and an emotional user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Project Idea
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This website is designed as a digital birthday gift — combining:
+- Special messages
+- Photos & memories
+- Interactive sections
+- Smooth animations
 
-## Expanding the ESLint configuration
+It’s not just a webpage, but an experience crafted to make someone feel special.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- 💌 Special message section with heartfelt content
+- 🖼️ Photo gallery to showcase memories
+- 🎥 Dedicated sections for media content
+- 🎨 Clean, aesthetic UI with smooth layout
+- ⚡ Animated transitions for better experience
+- 📱 Responsive design
+- 🌐 Live deployment on Vercel with auto-updates
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- Tailwind CSS
+- JavaScript
+- React 
+- Vercel for deployment
+
+---
+
+
+
